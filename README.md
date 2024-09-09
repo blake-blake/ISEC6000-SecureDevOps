@@ -17,6 +17,7 @@
 ---
 
 Further to this, security adaptations were made to improve the container security. The cluster was setup with `trivy-operation` to undertake continuous monitoring of vulnerabilities.
+
 *This includes*
 - Changing to non-root user.
 - Setting resource limits.
@@ -37,5 +38,5 @@ Details of all the above can be found in the **submitted project documentation P
 | 1       | Setup intial infrastructure    |
 | 2       | Create microservice and deploy |
 | 3       | Implementing security measures |
-| 4       | Architecture Visualisation     |
+| 4       | Architecture visualisation     |
 
