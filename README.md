@@ -7,7 +7,7 @@
 
 ### This has been achieved through the following steps:
 1. Create a Kubernetes cluster
-2. Install and configure `kubeclt` and `gcloud` within the local environment
+2. Install and configure `kubectl` and `gcloud` within the local environment
 3. Setup a GitHub account and repositories
 4. Install and configure `kompose` within the local environment
 5. Fork Saleor GitHub repository to the local environment
